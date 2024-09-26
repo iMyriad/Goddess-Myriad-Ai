@@ -1,4 +1,4 @@
-# Goddess Myriad AI
+# Goddess Myriad AI IO
 
 Welcome to the Goddess Myriad AI project! This project aims to create a sophisticated platform for labor employee and employer interaction research, focusing on human behavior within organizations.
 
